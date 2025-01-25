@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: deepskyblue;
+    color: blueviolet;
+    border-radius: 10px;
+}
+
+footer p{
+    background-color: lightslategray;
+}
